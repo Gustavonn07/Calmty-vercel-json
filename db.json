@@ -32,24 +32,24 @@
             "nome": "José Ramos",
             "data": "5 Meses atrás",
             "imagem": "../../images/Homem1.webp",
-            "titulo": "titulo",
-            "depoimento": "depoimento..."
+            "titulo": "Experiência Surpreendente!",
+            "depoimento": "Minha visita à Calmty foi simplesmente incrível! A variedade de chás é impressionante, e a equipe é super atenciosa. Encontrei sabores únicos que nunca experimentei antes."
         },
         {
             "id": "2",
             "nome": "Fernanda de Carvalho",
             "data": "9 Meses atrás",
             "imagem": "../../images/fefeCarvalho.webp",
-            "titulo": "titulo",
-            "depoimento": "depoimento..."
+            "titulo": "Oásis de Tranquilidade",
+            "depoimento": "A Calmty é um verdadeiro refúgio para os amantes de chá como eu. O ambiente é sereno e acolhedor, perfeito para relaxar e desfrutar de uma xícara de chá deliciosamente preparada."
         },
         {
             "id": "3",
             "nome": "Mario Andrade",
             "data": "2 Meses atrás",
             "imagem": "../../images/Homem2.webp",
-            "titulo": "titulo",
-            "depoimento": "depoimento..."
+            "titulo": "Charme e Sabor em Cada Xícara",
+            "depoimento": "Não posso deixar de elogiar a incrível seleção de chás da loja! Cada xícara é uma explosão de sabores autênticos que me transportam para diferentes partes do mundo. "
         }
     ],
 
