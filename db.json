@@ -87,11 +87,17 @@
     ],
     
     "sedes": [
-        {
-            "id": "",
-            "sede": "",
-            "imagem": "",
-            "endereco": "" 
-        }
+     {
+       "id": "1",
+       "sede": "Sede Iguatemi",
+       "imagem": "../../images/iguatemi.jpg",
+       "endereco": "Av. Washington Soares, 85 - Edson Queiroz, Fortaleza - CE" 
+     },
+     {
+      "id": "2",
+      "sede": "Sede Rio Mar",
+      "imagem": "../../images/riomar.jpg",
+      "endereco": "R. Des. Lauro Nogueira, 1500 - Papicu, Fortaleza - CE" 
+     }
     ]
 }
